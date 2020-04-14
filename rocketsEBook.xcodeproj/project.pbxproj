@@ -7,16 +7,40 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2962798B2443468E003B1AA3 /* RocketsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2962798A2443468E003B1AA3 /* RocketsView.swift */; };
+		2962798D2443538D003B1AA3 /* StartPlayerDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2962798C2443538D003B1AA3 /* StartPlayerDetail.swift */; };
+		2962798F2443624E003B1AA3 /* BenchPlayerDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2962798E2443624E003B1AA3 /* BenchPlayerDetail.swift */; };
 		29834C7A2441F02600C9989D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C792441F02600C9989D /* AppDelegate.swift */; };
 		29834C7C2441F02600C9989D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C7B2441F02600C9989D /* SceneDelegate.swift */; };
 		29834C7E2441F02600C9989D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C7D2441F02600C9989D /* ContentView.swift */; };
 		29834C802441F02A00C9989D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29834C7F2441F02A00C9989D /* Assets.xcassets */; };
 		29834C832441F02A00C9989D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29834C822441F02A00C9989D /* Preview Assets.xcassets */; };
 		29834C862441F02A00C9989D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 29834C842441F02A00C9989D /* LaunchScreen.storyboard */; };
+		29834C8E2442058A00C9989D /* playerRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C8D2442058A00C9989D /* playerRow.swift */; };
+		29834C9024420C7200C9989D /* TeamRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C8F24420C7200C9989D /* TeamRow.swift */; };
+		29834C9224420FA900C9989D /* Team.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C9124420FA900C9989D /* Team.swift */; };
+		29834C942442107F00C9989D /* TeamList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C932442107F00C9989D /* TeamList.swift */; };
+		29834C96244210A900C9989D /* TeamData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C95244210A900C9989D /* TeamData.swift */; };
+		29834C982442EDE400C9989D /* playerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C972442EDE400C9989D /* playerData.swift */; };
+		29834C9A2442EE1B00C9989D /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C992442EE1B00C9989D /* Player.swift */; };
+		29834C9C2443007300C9989D /* playerList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C9B2443007300C9989D /* playerList.swift */; };
+		29834C9E2443010E00C9989D /* StartPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C9D2443010E00C9989D /* StartPlayer.swift */; };
+		29834CA02443011D00C9989D /* BenchPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834C9F2443011D00C9989D /* BenchPlayer.swift */; };
+		29834CA22443014F00C9989D /* StartPlayerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834CA12443014F00C9989D /* StartPlayerData.swift */; };
+		29834CA42443016100C9989D /* BenchPlayerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834CA32443016100C9989D /* BenchPlayerData.swift */; };
+		29834CA62443021300C9989D /* StartPlayerList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834CA52443021300C9989D /* StartPlayerList.swift */; };
+		29834CA82443022400C9989D /* BenchPlayerList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834CA72443022400C9989D /* BenchPlayerList.swift */; };
+		29834CAA2443025B00C9989D /* StartPlayerRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834CA92443025B00C9989D /* StartPlayerRow.swift */; };
+		29834CAC2443026E00C9989D /* BenchPlayerRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29834CAB2443026E00C9989D /* BenchPlayerRow.swift */; };
+		29C4B21F2445889A00BDE60A /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29C4B21E2445889A00BDE60A /* PhotoView.swift */; };
+		29D3541524443F940025C0B4 /* CoachDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29D3541424443F940025C0B4 /* CoachDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		29834C762441F02600C9989D /* rocketsEBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rocketsEBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2962798A2443468E003B1AA3 /* RocketsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RocketsView.swift; sourceTree = "<group>"; };
+		2962798C2443538D003B1AA3 /* StartPlayerDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartPlayerDetail.swift; sourceTree = "<group>"; };
+		2962798E2443624E003B1AA3 /* BenchPlayerDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BenchPlayerDetail.swift; sourceTree = "<group>"; };
+		29834C762441F02600C9989D /* HReBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HReBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		29834C792441F02600C9989D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		29834C7B2441F02600C9989D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		29834C7D2441F02600C9989D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -24,6 +48,25 @@
 		29834C822441F02A00C9989D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		29834C852441F02A00C9989D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		29834C872441F02A00C9989D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		29834C8D2442058A00C9989D /* playerRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = playerRow.swift; sourceTree = "<group>"; };
+		29834C8F24420C7200C9989D /* TeamRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamRow.swift; sourceTree = "<group>"; };
+		29834C9124420FA900C9989D /* Team.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Team.swift; sourceTree = "<group>"; };
+		29834C932442107F00C9989D /* TeamList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamList.swift; sourceTree = "<group>"; };
+		29834C95244210A900C9989D /* TeamData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamData.swift; sourceTree = "<group>"; };
+		29834C972442EDE400C9989D /* playerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = playerData.swift; sourceTree = "<group>"; };
+		29834C992442EE1B00C9989D /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		29834C9B2443007300C9989D /* playerList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = playerList.swift; sourceTree = "<group>"; };
+		29834C9D2443010E00C9989D /* StartPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartPlayer.swift; sourceTree = "<group>"; };
+		29834C9F2443011D00C9989D /* BenchPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BenchPlayer.swift; sourceTree = "<group>"; };
+		29834CA12443014F00C9989D /* StartPlayerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartPlayerData.swift; sourceTree = "<group>"; };
+		29834CA32443016100C9989D /* BenchPlayerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BenchPlayerData.swift; sourceTree = "<group>"; };
+		29834CA52443021300C9989D /* StartPlayerList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartPlayerList.swift; sourceTree = "<group>"; };
+		29834CA72443022400C9989D /* BenchPlayerList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BenchPlayerList.swift; sourceTree = "<group>"; };
+		29834CA92443025B00C9989D /* StartPlayerRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartPlayerRow.swift; sourceTree = "<group>"; };
+		29834CAB2443026E00C9989D /* BenchPlayerRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BenchPlayerRow.swift; sourceTree = "<group>"; };
+		29C4B21E2445889A00BDE60A /* PhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoView.swift; sourceTree = "<group>"; };
+		29D3541424443F940025C0B4 /* CoachDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoachDetail.swift; sourceTree = "<group>"; };
+		29FE8E072445E392006A37CE /* rocketsEBook.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = rocketsEBook.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,7 +91,7 @@
 		29834C772441F02600C9989D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				29834C762441F02600C9989D /* rocketsEBook.app */,
+				29834C762441F02600C9989D /* HReBook.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -56,10 +99,32 @@
 		29834C782441F02600C9989D /* rocketsEBook */ = {
 			isa = PBXGroup;
 			children = (
+				29FE8E072445E392006A37CE /* rocketsEBook.entitlements */,
 				29834C792441F02600C9989D /* AppDelegate.swift */,
 				29834C7B2441F02600C9989D /* SceneDelegate.swift */,
 				29834C7D2441F02600C9989D /* ContentView.swift */,
+				29834C8D2442058A00C9989D /* playerRow.swift */,
+				29834CA92443025B00C9989D /* StartPlayerRow.swift */,
+				29834CAB2443026E00C9989D /* BenchPlayerRow.swift */,
+				29834C8F24420C7200C9989D /* TeamRow.swift */,
+				29834C9124420FA900C9989D /* Team.swift */,
+				29834C992442EE1B00C9989D /* Player.swift */,
+				29834C9D2443010E00C9989D /* StartPlayer.swift */,
+				2962798C2443538D003B1AA3 /* StartPlayerDetail.swift */,
+				2962798E2443624E003B1AA3 /* BenchPlayerDetail.swift */,
+				29834C9F2443011D00C9989D /* BenchPlayer.swift */,
+				29834C932442107F00C9989D /* TeamList.swift */,
+				2962798A2443468E003B1AA3 /* RocketsView.swift */,
+				29834C9B2443007300C9989D /* playerList.swift */,
+				29834CA52443021300C9989D /* StartPlayerList.swift */,
+				29834CA72443022400C9989D /* BenchPlayerList.swift */,
+				29834C95244210A900C9989D /* TeamData.swift */,
+				29834C972442EDE400C9989D /* playerData.swift */,
+				29834CA12443014F00C9989D /* StartPlayerData.swift */,
+				29834CA32443016100C9989D /* BenchPlayerData.swift */,
+				29D3541424443F940025C0B4 /* CoachDetail.swift */,
 				29834C7F2441F02A00C9989D /* Assets.xcassets */,
+				29C4B21E2445889A00BDE60A /* PhotoView.swift */,
 				29834C842441F02A00C9989D /* LaunchScreen.storyboard */,
 				29834C872441F02A00C9989D /* Info.plist */,
 				29834C812441F02A00C9989D /* Preview Content */,
@@ -92,7 +157,7 @@
 			);
 			name = rocketsEBook;
 			productName = rocketsEBook;
-			productReference = 29834C762441F02600C9989D /* rocketsEBook.app */;
+			productReference = 29834C762441F02600C9989D /* HReBook.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -146,9 +211,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				29834CA42443016100C9989D /* BenchPlayerData.swift in Sources */,
+				29834C9224420FA900C9989D /* Team.swift in Sources */,
+				2962798F2443624E003B1AA3 /* BenchPlayerDetail.swift in Sources */,
+				29834CA02443011D00C9989D /* BenchPlayer.swift in Sources */,
+				29834CA82443022400C9989D /* BenchPlayerList.swift in Sources */,
+				29834C982442EDE400C9989D /* playerData.swift in Sources */,
 				29834C7A2441F02600C9989D /* AppDelegate.swift in Sources */,
+				29834C9E2443010E00C9989D /* StartPlayer.swift in Sources */,
+				29834C96244210A900C9989D /* TeamData.swift in Sources */,
+				29834CA62443021300C9989D /* StartPlayerList.swift in Sources */,
 				29834C7C2441F02600C9989D /* SceneDelegate.swift in Sources */,
+				2962798B2443468E003B1AA3 /* RocketsView.swift in Sources */,
 				29834C7E2441F02600C9989D /* ContentView.swift in Sources */,
+				29834C942442107F00C9989D /* TeamList.swift in Sources */,
+				29834C9024420C7200C9989D /* TeamRow.swift in Sources */,
+				29C4B21F2445889A00BDE60A /* PhotoView.swift in Sources */,
+				29834C9A2442EE1B00C9989D /* Player.swift in Sources */,
+				29834CAA2443025B00C9989D /* StartPlayerRow.swift in Sources */,
+				29D3541524443F940025C0B4 /* CoachDetail.swift in Sources */,
+				29834CA22443014F00C9989D /* StartPlayerData.swift in Sources */,
+				29834C8E2442058A00C9989D /* playerRow.swift in Sources */,
+				2962798D2443538D003B1AA3 /* StartPlayerDetail.swift in Sources */,
+				29834C9C2443007300C9989D /* playerList.swift in Sources */,
+				29834CAC2443026E00C9989D /* BenchPlayerRow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,8 +370,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = rocketsEBook/rocketsEBook.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
+				DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"rocketsEBook/Preview Content\"";
+				DEVELOPMENT_TEAM = 23X7HAPSCT;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = rocketsEBook/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -293,7 +383,8 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = ntouyujen.rocketsEBook;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = HReBook;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -303,8 +394,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = rocketsEBook/rocketsEBook.entitlements;
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "-";
 				CODE_SIGN_STYLE = Automatic;
+				DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"rocketsEBook/Preview Content\"";
+				DEVELOPMENT_TEAM = 23X7HAPSCT;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = rocketsEBook/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -312,7 +407,8 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = ntouyujen.rocketsEBook;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = HReBook;
+				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
